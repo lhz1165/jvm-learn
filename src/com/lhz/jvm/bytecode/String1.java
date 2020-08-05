@@ -6,7 +6,7 @@ package com.lhz.jvm.bytecode;
  */
 public class String1 {
 
-	public static void main(String[] args) {
-		System.out.println(String1.class.getClassLoader());
+	public void  hello() {
+		System.out.println("hello");
 	}
 }
